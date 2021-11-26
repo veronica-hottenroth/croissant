@@ -2,3 +2,12 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+body {
+  background: #add8e6;
+  text-align: center;
+}
+
+img {
+  max-width: 300px;
+}
